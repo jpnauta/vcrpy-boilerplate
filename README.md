@@ -1,5 +1,8 @@
 # vcrpy-boilerplate
 
+To understand the goals of this boilerplate, please see
+[this blog post](http://jeremypnauta.com/posts/http-recording-in-tests/).
+
 While [vcrpy](https://vcrpy.readthedocs.io/en/latest/) is very powerful, it can be difficult
 to use out-of-the-box. This boilerplate wraps `vcrpy` with some useful features and
 shows examples of how to quickly record and replay cassettes in unit tests.
